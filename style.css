@@ -1,6 +1,6 @@
 body {
     background: green;
-    height: 200%
+    height: 2000px;
 }
 
 @media (min-width: 425px) {
